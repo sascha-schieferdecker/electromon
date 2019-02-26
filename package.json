@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "latest",
+    "electron": "^3.0.0",
     "watch": "^1.0.2"
   },
   "bin": {
