@@ -1,0 +1,6 @@
+{
+  "globals": {
+    "watching": "Watching for changes",
+    "stopping": "Stopping application"
+  }
+}
