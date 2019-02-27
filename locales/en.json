@@ -2,6 +2,7 @@
   "globals": {
     "watching": "Watching for changes",
     "stopping": "Stopping application",
-    "newprocess": "Spawning new process"
+    "newprocess": "Spawning new process",
+    "kill": "killing process"
   }
 }
