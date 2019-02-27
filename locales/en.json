@@ -3,6 +3,8 @@
     "watching": "Watching for changes",
     "stopping": "Stopping application",
     "newprocess": "Spawning new process",
-    "kill": "killing process"
+    "kill": "Killing process",
+    "help": "Show Help",
+    "restarting": "Restarting in progresss"
   }
 }
